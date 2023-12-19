@@ -6,8 +6,8 @@ titleSelector = "b"
 linkSelector = "b a"
 
 [wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
+title = "Paris Saclay"
+url = "https://epa-paris-saclay.fr/actualites-et-decryptages/format/actualites/"
+entrySelector = ".section.main-search-results"
+titleSelector = "h3"
+linkSelector = "h3 a"
